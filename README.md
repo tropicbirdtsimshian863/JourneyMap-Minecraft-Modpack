@@ -1,11 +1,10 @@
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/7453cd3a-3558-4e42-b076-c9790aae3897" />
 
-
 # Journeymap Minecraft ModPack
 
 > **Journeymap** — The most popular and powerful real-time mapping mod for Minecraft with detailed minimap, full-screen map, waypoints, and world exploration tools.
 
-[![Stars](https://img.shields.io/github/stars/rodrigojpgamer2022/JourneyMap-Minecraft-Modpack)](https://github.com/rodrigojpgamer2022/JourneyMap-Minecraft-Modpack) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/rodrigojpgamer2022/JourneyMap-Minecraft-Modpack)](https://github.com/rodrigojpgamer2022/JourneyMap-Minecraft-Modpack) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 **Journeymap Minecraft ModPack** is a complete and optimized modpack centered around Journeymap. It provides an enhanced exploration experience with real-time mapping, detailed terrain information, waypoints, cave mapping, and many quality-of-life features for both singleplayer and multiplayer.
 
